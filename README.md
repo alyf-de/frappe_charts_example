@@ -36,7 +36,7 @@ In `frappe_charts/hooks.py` we define to serve `assets/js/frappe_charts.min.js` 
 
 ```py
 # include js, css files in header of web template
-web_include_js = "/assets/js/frappe_charts.min.js"
+web_include_js = "assets/js/frappe_charts.min.js"
 ```
 
 Now we can use `frappe.Chart()` in any public page, like `frappe_charts/www/index.html`.
