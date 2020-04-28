@@ -1,0 +1,5 @@
+{
+    "js/frappe_charts.min.js": [
+        "public/js/frappe_charts.js"
+    ]
+}

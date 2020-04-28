@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+frappe_charts/docs/current
+node_modules
+__pycache__

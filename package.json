@@ -1,0 +1,15 @@
+{
+  "name": "frappe_charts",
+  "version": "0.0.1",
+  "description": "Example app, how to include Frappe Charts in a public page.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alyf-de/frappe_charts_example.git"
+  },
+  "dependencies": {
+    "frappe-charts": "^1.3.0"
+  },
+  "devDependencies": {},
+  "author": "ALYF GmbH",
+  "license": "MIT"
+}
