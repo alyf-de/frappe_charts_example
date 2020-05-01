@@ -4,5 +4,5 @@
 *.swp
 tags
 frappe_charts/docs/current
-node_modules/
+node_modules
 __pycache__
