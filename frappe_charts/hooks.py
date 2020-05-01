@@ -19,7 +19,7 @@ app_license = "MIT"
 # app_include_js = "/assets/frappe_charts/js/frappe_charts.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/frappe_charts/css/frappe_charts.css"
+web_include_css = "/assets/css/frappe_charts.min.css"
 web_include_js = "/assets/js/frappe_charts.min.js"
 
 # include js in page

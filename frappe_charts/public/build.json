@@ -1,5 +1,8 @@
 {
     "js/frappe_charts.min.js": [
         "public/js/frappe_charts.js"
+    ],
+    "css/frappe_charts.min.css": [
+        "node_modules/frappe-charts/dist/frappe-charts.min.css"
     ]
 }
